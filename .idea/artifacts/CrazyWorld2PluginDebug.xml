@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CrazyWorld2PluginDebug">
+    <output-path>$PROJECT_DIR$/../../MSL/MSL/PluginTestServer/plugins</output-path>
+    <root id="archive" name="CrazyWorld2PluginDebug.jar">
+      <element id="module-output" name="CrazyWorld2.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
